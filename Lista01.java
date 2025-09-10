@@ -7,6 +7,7 @@ public class Lista01
 
         System.out.print(" Óla mundo")
     }
-    scanner.close()
+    scanner.close();
 
 }
+
