@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main
+public class Lista01
 {
     public static void main(String []args){
 
@@ -7,4 +7,6 @@ public class Main
 
         System.out.print(" Óla mundo")
     }
+    scanner.close()
+
 }
